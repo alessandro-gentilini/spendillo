@@ -1,0 +1,6 @@
+description,category,value
+d1,A,10
+d2,B,100
+d3,B,200
+d4,B,1
+d5,A,3.14
